@@ -1,0 +1,5 @@
+local-s3-bucket
+frontend-citi-bike-data/public/station_data/
+.DS_Store
+frontend-citi-bike-data/.env
+research/202410-citibike-tripdata/

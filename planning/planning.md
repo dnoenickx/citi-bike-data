@@ -10,6 +10,7 @@ Stations
 
 - Id
 - Geometry
+- JC/NYC (what is the best way to track this? Add it to the ID? Separate field?)
 - Month (?) – because stations move also can query on station month
 
 API
